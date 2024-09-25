@@ -88,45 +88,6 @@ const data = {
     ],
     centerList: [
       {
-        _id: "6321454882a1c2001d14e202",
-        gymName: "종로 스포짐",
-        gymPhotoBig: null,
-        gymPhotoSmall:
-          "https://s3.ap-northeast-2.amazonaws.com/stone-i-dagym-centers/images/gyms/18339f6a20fe5f94e/kXjvwH8c7VMy1K45LqKEzxNAyFcnP766Nz36VAyF68.jpg",
-        address: "서울 종로구 서린동",
-        location: [126.98130878139783, 37.56932942118991],
-        isWomenOnly: false,
-        isReservationRequired: false,
-        hasDailyItem: true,
-        isLiked: null,
-        isLowestPrice: false,
-        exhibitionRemainingCount: null,
-        tags: ["헬스", "P.T", "기구필라테스", "G.X"],
-        program: {
-          free: "",
-        },
-        service: {
-          free: "운동복 / 수건 / 양말 / / 샴푸 / 바디워시 / ️ 주차 2시간 가능",
-        },
-        price: {
-          name: "헬스 회원권",
-          count: null,
-          isLowestPrice: false,
-          lowestPrice: 480000,
-          originalPrice: 480000,
-          period: 12,
-          priceType: "period",
-          itemTags: ["헬스"],
-          lowestPriceRemainingCount: null,
-        },
-        review: {
-          rate: 4.81,
-          count: 16,
-        },
-        videoUrl: null,
-        videoThumbnailUrl: null,
-      },
-      {
         _id: "62e913e9f9efad001d8f473e",
         gymName: "을지로 펄스핏 피트니스",
         gymPhotoBig: null,
@@ -161,6 +122,45 @@ const data = {
         review: {
           rate: 4.93,
           count: 29,
+        },
+        videoUrl: null,
+        videoThumbnailUrl: null,
+      },
+      {
+        _id: "6321454882a1c2001d14e202",
+        gymName: "종로 스포짐",
+        gymPhotoBig: null,
+        gymPhotoSmall:
+          "https://s3.ap-northeast-2.amazonaws.com/stone-i-dagym-centers/images/gyms/18339f6a20fe5f94e/kXjvwH8c7VMy1K45LqKEzxNAyFcnP766Nz36VAyF68.jpg",
+        address: "서울 종로구 서린동",
+        location: [126.98130878139783, 37.56932942118991],
+        isWomenOnly: false,
+        isReservationRequired: false,
+        hasDailyItem: true,
+        isLiked: null,
+        isLowestPrice: false,
+        exhibitionRemainingCount: null,
+        tags: ["헬스", "P.T", "기구필라테스", "G.X"],
+        program: {
+          free: "",
+        },
+        service: {
+          free: "운동복 / 수건 / 양말 / / 샴푸 / 바디워시 / ️ 주차 2시간 가능",
+        },
+        price: {
+          name: "헬스 회원권",
+          count: null,
+          isLowestPrice: false,
+          lowestPrice: 480000,
+          originalPrice: 480000,
+          period: 12,
+          priceType: "period",
+          itemTags: ["헬스"],
+          lowestPriceRemainingCount: null,
+        },
+        review: {
+          rate: 4.81,
+          count: 16,
         },
         videoUrl: null,
         videoThumbnailUrl: null,
@@ -205,6 +205,45 @@ const data = {
         videoThumbnailUrl: null,
       },
       {
+        _id: "62c3eefd99269f001d846287",
+        gymName: "시청 요가타운 서소문교육원",
+        gymPhotoBig: null,
+        gymPhotoSmall:
+          "https://s3.ap-northeast-2.amazonaws.com/stone-i-dagym-centers/images/gyms/181cd5d8c511a9b79a/4K8g81Hip8Do9PTbbeREKtTTABr6BLQQD7NtWzShtJc8.jpg",
+        address: "서울 중구 서소문동",
+        location: [126.9727450920451, 37.56303429786593],
+        isWomenOnly: false,
+        isReservationRequired: false,
+        hasDailyItem: false,
+        isLiked: null,
+        isLowestPrice: true,
+        exhibitionRemainingCount: null,
+        tags: ["요가", "P.T"],
+        program: {
+          free: "",
+        },
+        service: {
+          free: "요가복 / 수건",
+        },
+        price: {
+          name: "요가 (주 2회)",
+          count: null,
+          isLowestPrice: false,
+          lowestPrice: 1400000,
+          originalPrice: 1400000,
+          period: 12,
+          priceType: "period",
+          itemTags: ["요가"],
+          lowestPriceRemainingCount: null,
+        },
+        review: {
+          rate: 5,
+          count: 4,
+        },
+        videoUrl: null,
+        videoThumbnailUrl: null,
+      },
+      {
         _id: "606178dd43115b0039225ae0",
         gymName: "명동 은행회관 헬스클럽",
         gymPhotoBig: null,
@@ -239,6 +278,45 @@ const data = {
         review: {
           rate: 5,
           count: 38,
+        },
+        videoUrl: null,
+        videoThumbnailUrl: null,
+      },
+      {
+        _id: "63020a6a253e7e001dc8e1e0",
+        gymName: "시청 겟투잇 피트니스",
+        gymPhotoBig: null,
+        gymPhotoSmall:
+          "https://s3.ap-northeast-2.amazonaws.com/stone-i-dagym-centers/images/gyms/182bff8af4a1e60773/2WQFyg7sWAqyqkDEQVKE5GRYSfMJFy2mKwRj.list_photo.jpg",
+        address: "서울 서대문구 미근동",
+        location: [126.97122245295341, 37.5638223083948],
+        isWomenOnly: false,
+        isReservationRequired: false,
+        hasDailyItem: true,
+        isLiked: null,
+        isLowestPrice: false,
+        exhibitionRemainingCount: null,
+        tags: ["헬스"],
+        program: {
+          free: "",
+        },
+        service: {
+          free: "️운동복+수건",
+        },
+        price: {
+          name: "헬스 회원권",
+          count: null,
+          isLowestPrice: false,
+          lowestPrice: 528000,
+          originalPrice: 528000,
+          period: 12,
+          priceType: "period",
+          itemTags: ["헬스"],
+          lowestPriceRemainingCount: null,
+        },
+        review: {
+          rate: 5,
+          count: 1,
         },
         videoUrl: null,
         videoThumbnailUrl: null,
@@ -322,45 +400,6 @@ const data = {
         videoThumbnailUrl: null,
       },
       {
-        _id: "62c3eefd99269f001d846287",
-        gymName: "시청 요가타운 서소문교육원",
-        gymPhotoBig: null,
-        gymPhotoSmall:
-          "https://s3.ap-northeast-2.amazonaws.com/stone-i-dagym-centers/images/gyms/181cd5d8c511a9b79a/4K8g81Hip8Do9PTbbeREKtTTABr6BLQQD7NtWzShtJc8.jpg",
-        address: "서울 중구 서소문동",
-        location: [126.9727450920451, 37.56303429786593],
-        isWomenOnly: false,
-        isReservationRequired: false,
-        hasDailyItem: false,
-        isLiked: null,
-        isLowestPrice: true,
-        exhibitionRemainingCount: null,
-        tags: ["요가", "P.T"],
-        program: {
-          free: "",
-        },
-        service: {
-          free: "요가복 / 수건",
-        },
-        price: {
-          name: "요가 (주 2회)",
-          count: null,
-          isLowestPrice: false,
-          lowestPrice: 1400000,
-          originalPrice: 1400000,
-          period: 12,
-          priceType: "period",
-          itemTags: ["요가"],
-          lowestPriceRemainingCount: null,
-        },
-        review: {
-          rate: 5,
-          count: 4,
-        },
-        videoUrl: null,
-        videoThumbnailUrl: null,
-      },
-      {
         _id: "63bbc28a33db2b001d47b24e",
         gymName: "회현 더코어필라테스",
         gymPhotoBig: null,
@@ -395,45 +434,6 @@ const data = {
         review: {
           rate: 5,
           count: 2,
-        },
-        videoUrl: null,
-        videoThumbnailUrl: null,
-      },
-      {
-        _id: "63020a6a253e7e001dc8e1e0",
-        gymName: "시청 겟투잇 피트니스",
-        gymPhotoBig: null,
-        gymPhotoSmall:
-          "https://s3.ap-northeast-2.amazonaws.com/stone-i-dagym-centers/images/gyms/182bff8af4a1e60773/2WQFyg7sWAqyqkDEQVKE5GRYSfMJFy2mKwRj.list_photo.jpg",
-        address: "서울 서대문구 미근동",
-        location: [126.97122245295341, 37.5638223083948],
-        isWomenOnly: false,
-        isReservationRequired: false,
-        hasDailyItem: true,
-        isLiked: null,
-        isLowestPrice: false,
-        exhibitionRemainingCount: null,
-        tags: ["헬스"],
-        program: {
-          free: "",
-        },
-        service: {
-          free: "️운동복+수건",
-        },
-        price: {
-          name: "헬스 회원권",
-          count: null,
-          isLowestPrice: false,
-          lowestPrice: 528000,
-          originalPrice: 528000,
-          period: 12,
-          priceType: "period",
-          itemTags: ["헬스"],
-          lowestPriceRemainingCount: null,
-        },
-        review: {
-          rate: 5,
-          count: 1,
         },
         videoUrl: null,
         videoThumbnailUrl: null,
@@ -751,51 +751,6 @@ const data = {
         videoThumbnailUrl: null,
       },
       {
-        _id: "617b8fc56bdf9700390f411f",
-        gymName: "이화 제이앤에스바디플로우 ",
-        gymPhotoBig: null,
-        gymPhotoSmall:
-          "https://s3.ap-northeast-2.amazonaws.com/stone-i-dagym-centers/images/gyms/17ccaa99cad35cddc0/2YC5MsVTS6WFpSrj7j6Mj54BQRMQVL1Y2SkR.Small_3.jpg",
-        address: "서울 종로구 이화동",
-        location: [127.00480280310884, 37.5776199560746],
-        isWomenOnly: false,
-        isReservationRequired: false,
-        hasDailyItem: true,
-        isLiked: null,
-        isLowestPrice: true,
-        exhibitionRemainingCount: null,
-        tags: [
-          "필라테스",
-          "기구필라테스",
-          "자이로토닉",
-          "자이로키네시스",
-          "스트레칭",
-        ],
-        program: {
-          free: "️쳬형측정(5만원 상당)",
-        },
-        service: {
-          free: "️수건 / ️공용락커",
-        },
-        price: {
-          name: "매트 필라테스",
-          count: 30,
-          isLowestPrice: true,
-          lowestPrice: 432000,
-          originalPrice: 480000,
-          period: null,
-          priceType: "count",
-          itemTags: ["필라테스"],
-          lowestPriceRemainingCount: 5,
-        },
-        review: {
-          rate: 0,
-          count: 0,
-        },
-        videoUrl: null,
-        videoThumbnailUrl: null,
-      },
-      {
         _id: "64b7090ce53cb5001dd7ba78",
         gymName: "공덕 헤이점핑",
         gymPhotoBig: null,
@@ -835,40 +790,79 @@ const data = {
         videoThumbnailUrl: null,
       },
       {
-        _id: "65bc7362185776001dbc626d",
-        gymName: "혜화 어메이징휘트니스",
+        _id: "5b6c6c20729a8461514bea7c",
+        gymName: "애오개 헬스존",
         gymPhotoBig: null,
         gymPhotoSmall:
-          "https://s3.ap-northeast-2.amazonaws.com/stone-i-dagym-centers/images/gyms/18d6822b8bc472a6ed/2WiSULC3i9cU3L8xXsMsNAYAU1WpcSP57uQp.Small__DSC6417.jpg",
-        address: "서울 종로구 명륜1가",
-        location: [126.99694305797325, 37.58631460231251],
+          "https://s3.ap-northeast-2.amazonaws.com/stone-i-dagym-centers/images/gyms/1651f865fbf5da8d11/2Y9Kv1ReEdgY83knduJVLifwzAd1L1RwysoY.Small_231212_애오개_헬스존_07.jpg",
+        address: "서울 마포구 공덕동",
+        location: [126.960333, 37.550072],
         isWomenOnly: false,
         isReservationRequired: false,
         hasDailyItem: true,
         isLiked: null,
         isLowestPrice: true,
         exhibitionRemainingCount: null,
-        tags: ["헬스"],
+        tags: ["헬스", "P.T"],
         program: {
           free: "",
         },
         service: {
-          free: "️운동복+수건 / ️가입비",
+          free: "️주차 3시간 / ️수건 + 탈의실 락커",
         },
         price: {
           name: "헬스 회원권",
           count: null,
-          isLowestPrice: false,
-          lowestPrice: 462000,
-          originalPrice: 462000,
+          isLowestPrice: true,
+          lowestPrice: 380000,
+          originalPrice: 400000,
           period: 12,
           priceType: "period",
           itemTags: ["헬스"],
-          lowestPriceRemainingCount: null,
+          lowestPriceRemainingCount: 19,
         },
         review: {
-          rate: 4.93,
-          count: 14,
+          rate: 4.85,
+          count: 20,
+        },
+        videoUrl: null,
+        videoThumbnailUrl: null,
+      },
+      {
+        _id: "60472b2e43115b0039221b1b",
+        gymName: "숙대입구 풍산복싱체육관",
+        gymPhotoBig: null,
+        gymPhotoSmall:
+          "https://s3.ap-northeast-2.amazonaws.com/stone-i-dagym-centers/images/gyms/1781600acb02b55fcb/2ZyUmTAfiYPSpYmxmQHE8Jhju7nrEbbPM7CY.Small_012.jpg",
+        address: "서울 용산구 갈월동",
+        location: [126.97154759870462, 37.54534459037155],
+        isWomenOnly: false,
+        isReservationRequired: false,
+        hasDailyItem: true,
+        isLiked: null,
+        isLowestPrice: true,
+        exhibitionRemainingCount: null,
+        tags: ["복싱"],
+        program: {
+          free: "",
+        },
+        service: {
+          free: "️수건 / 라커 / WI-FI",
+        },
+        price: {
+          name: "복싱 회원권",
+          count: null,
+          isLowestPrice: true,
+          lowestPrice: 1080000,
+          originalPrice: 1200000,
+          period: 12,
+          priceType: "period",
+          itemTags: ["복싱"],
+          lowestPriceRemainingCount: 10,
+        },
+        review: {
+          rate: 5,
+          count: 8,
         },
         videoUrl: null,
         videoThumbnailUrl: null,
@@ -878,43 +872,11 @@ const data = {
 };
 
 const newData = data.result.centerList;
-console.log(newData);
 
-newData.forEach((x) => {
-  x.gymPhotoSmall;
-});
-
-const container = document.createElement("div");
-container.className = "container";
-
-const centered = document.createElement("div");
-centered.className = "centered";
-
-const box = document.createElement("div");
-box.className = "box";
-
-const album = document.createElement("div");
-album.className = "album";
-const img = document.createElement("img");
-
-const contents = document.createElement("div");
-contents.className = "contents";
-
-const type = document.createElement("div");
-type.className = "type";
-
-const name = document.createElement("div");
-name.className = "name";
-
-const price = document.createElement("div");
-price.className = "price";
-
-const service = document.createElement("div");
-service.className = "service";
-
-// main태그 만들기
+//main 태그 만들기
 const main = document.createElement("main");
 
+//컨테이너 클래스 div 태그 만들기
 const container = document.createElement("section");
 container.classList.add("container");
 
@@ -922,6 +884,7 @@ newData.forEach((v) => {
   const card = document.createElement("div");
   card.classList.add("card");
 
+  //왼쪽 내용 만들기
   const album = document.createElement("div");
   album.classList.add("album");
 
@@ -932,16 +895,16 @@ newData.forEach((v) => {
   card.appendChild(album);
 
   //오른쪽 내용 만들기
-  const info = document.createElement("span");
+  const info = document.createElement("div");
   info.classList.add("info");
 
   const category = document.createElement("span");
   category.classList.add("category");
-  info.innerText = v.tags;
+  category.innerText = v.tags[0];
 
   const gymName = document.createElement("span");
-  info.classList.add("gymName");
-  info.innerText = v.gymName;
+  gymName.classList.add("gymName");
+  gymName.innerText = v.gymName;
 
   const price = document.createElement("span");
   price.classList.add("price");

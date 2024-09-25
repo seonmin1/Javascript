@@ -1,22 +1,29 @@
+main {
+  width: 100vw;
+}
 .container {
+  width: 100%;
+  max-width: 1000px;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
+  align-items: center;
+  gap: 10px;
 }
-.centered {
-  width: 70%;
-  max-width: 1200px;
-  margin: 0 auto;
-  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-  padding: 10px;
-  border-radius: 10px;
-}
-.box {
+
+.card {
+  width: 75%;
+  padding: 20px 30px;
   display: flex;
   flex-direction: row;
+  gap: 10px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
+
 .album {
-  width: 250px;
-  height: 300px;
+  width: 130px;
+  height: 150px;
 }
 .album > img {
   width: 100%;
@@ -24,19 +31,18 @@
   object-fit: cover;
   border-radius: 10px;
 }
-.contents {
-  padding: 20px;
+
+.info {
   display: flex;
   flex-direction: column;
-  gap: 5px;
+  gap: 3px;
 }
-.type {
+
+.category {
   color: #999fa9;
-  font-weight: bold;
-  font-size: 12;
+  font-size: 12px;
 }
-.name {
-  font-size: 20px;
+.gymName {
   font-weight: bold;
 }
 .price {
@@ -44,6 +50,5 @@
   font-weight: bold;
 }
 .service {
-  font-size: 12;
-  font-weight: bold;
+  font-size: 12px;
 }
